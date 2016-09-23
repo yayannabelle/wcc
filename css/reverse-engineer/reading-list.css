@@ -1,0 +1,67 @@
+body {
+    background-color: #185A96;
+    background-image: url(http://practice-pixels.s3.amazonaws.com/texture-blue.jpg);
+    background-repeat: repeat;
+    font-size: 62.5%;
+}
+.wrapper {
+    border-radius: 5px;
+    width: 800px;
+    background-color: white;
+    margin: 60px auto;
+    font-size: 1rem;
+
+}
+.wrapper > p {
+    text-align: center;
+    padding: 3px;
+}
+header {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h1 {
+    font-size: 2rem;
+    color: #D42A1D;
+    margin: 1px;
+}
+h2 {
+    font-size: 1.2rem;
+    margin: 1px;
+}
+h3 {
+    font-size: 1.2rem;
+    margin: 1px;
+    font-family: Helvetica, sans-serif;
+    padding: 0px;
+}
+h4 {
+    font-size: 1rem;
+    margin-top: -5px;
+    font-family: Helvetica, sans-serif;
+    font-style: italic;
+    padding: 0px;
+}
+.book {
+    background-color: #EEEEEE;
+    padding: 5px 10px;
+    margin: -5px 30px 20px 30px;
+    font-family: Georgia, serif;
+    line-height: 1.5;
+}
+.book a {
+    font-family: Helvetica, sans-serif;
+    color:  #D42A1D;
+}
+.book a:hover{
+    color: #185A96;
+}
+header > img {
+    width: 75px;
+}
+.wrapper > p {
+    font-family: Helvetica, sans-serif;
+    padding-bottom: 15px;
+}
