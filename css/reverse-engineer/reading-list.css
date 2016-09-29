@@ -12,10 +12,6 @@ body {
     font-size: 1rem;
 
 }
-.wrapper > p {
-    text-align: center;
-    padding: 3px;
-}
 header {
     text-align: center;
     font-family: Helvetica, sans-serif;
@@ -64,4 +60,6 @@ header > img {
 .wrapper > p {
     font-family: Helvetica, sans-serif;
     padding-bottom: 15px;
+    text-align: center;
+    padding: 3px;
 }
